@@ -47,7 +47,7 @@ $_ = <FASTA>;
 	
 	$novo_nome =~ s/\_.*$//g;
 	
-	my $range = 100000000000000;
+	my $range = 100000000000000000000000000000;
 	my $random_number = int(rand($range));
 	
 	print SAIDA ">OTU$random_number\n$sequence\n";
