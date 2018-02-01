@@ -1,4 +1,4 @@
-#!/bin/perl
+#!/usr/bin/perl
 
 ##Leandro Nascimento Lemos
 ##Victor Pylro
